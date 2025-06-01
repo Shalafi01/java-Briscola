@@ -15,12 +15,12 @@ This Java Swing application lets you play the classic Italian card game Briscola
 * **Swing GUI**: A fully graphical user interface built with Java Swing.
 
 ## Screenshot
-<img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot_1.png" alt="Contacts App Screenshot" style="width: 800px;"/>
 
-<img src="img/screenshot_2.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot_2.png" alt="Contacts App Screenshot" style="width: 800px;"/>
 
-<img src="img/screenshot_3.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot_3.png" alt="Contacts App Screenshot" style="width: 800px;"/>
 
-<img src="img/screenshot_4.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot_4.png" alt="Contacts App Screenshot" style="width: 800px;"/>
 
-<img src="img/screenshot_5.png" alt="Contacts App Screenshot" style="width: 600px;"/>
+<img src="img/screenshot_5.png" alt="Contacts App Screenshot" style="width: 800px;"/>
