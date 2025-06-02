@@ -1,5 +1,5 @@
 # Briscola App
-This Java Swing application lets you play the classic Italian card game Briscola. Challenge a CPU opponent in single-player mode, or team up with an AI partner against another CPU duo. Count points, declare winners, and fine-tune your strategy!
+This Java Swing application lets you play a fully functional game of Briscola, a classic Italian card game. Challenge a CPU opponent in single-player mode, or team up with an AI partner against another CPU duo. Count points, declare winners, and fine-tune your strategy!
 
 ## Features
 * **Single-Player Mode**: Go head-to-head against a CPU.
